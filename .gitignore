@@ -219,8 +219,8 @@ __marimo__/
 
 # .gitignore
 LSWMD.pkl
-*.h5
-*.pkl
+#*.h5
+#*.pkl
 mlflow.db
 mlruns/
 .venv/
