@@ -271,7 +271,7 @@ with tab3:
             st.pyplot(thumb(name))
         with ic2:
             st.markdown(f"### {name}")
-            st.markdown(f"**이렇게 나타남** — {appear}")
+            st.markdown(f"**결함 현상** — {appear}")
             st.markdown(f"**추정 공정 원인 / 점검 포인트** — {cause}")
         st.divider()
  
